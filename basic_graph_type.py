@@ -10,7 +10,6 @@ y = [5,4,3,2]
 # 创建新图表
 figure()
 
-
 # subplot(nrows, ncols, index, **kwargs)
 # 将图表分为2行，3列，并选择第1个
 subplot(2, 3, 1)
